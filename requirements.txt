@@ -1,0 +1,35 @@
+Project Requirements
+====================
+
+Project Name: Real Estate PHP
+Developed by: Suraj Kumar Vishwakarma
+
+Environment Requirements:
+-------------------------
+1. PHP Version:
+   - Recommended: 7.4 (Compatible with 5.6)
+   - Extensions: mysqli
+
+2. Database:
+   - MySQL
+   - Database Name: realestatephp
+   - Connection Details (Default):
+     - Host: localhost
+     - User: root
+     - Password: (empty)
+
+3. Web Server:
+   - Apache or Nginx (Apache recommended for .htaccess support if used)
+
+Setup Instructions:
+-------------------
+1. Install XAMPP/WAMP/MAMP or standard AMP stack.
+2. Create a MySQL database named `realestatephp`.
+3. Import the database file provided in the `DATABASE FILE` folder (if available).
+4. Configure `config.php` if your database credentials differ from default.
+5. Place the project folder in your web server's root directory (e.g., htdocs).
+
+Admin Login Details:
+--------------------
+Username: admin
+Password: freeprojectscodes.com
